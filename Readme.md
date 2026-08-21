@@ -34,7 +34,8 @@ Nécessite une connexion	Fonctionne sans internet
 Conditions floues sur la revente de vos médias	Confidentialité totale, vérifiable au pare-feu
 Conçu pour les fichiers sensibles : rushs pro, audios perso, images clients, archives associatives.
 
-✨ Le couteau suisse de la conversion
+## ✨ Le couteau suisse de la conversion
+
 Vidéo -> Vidéo - MP4 / MKV / MOV / WebM / AVI sans ré-encodage inutile
 Audio -> Audio - MP3 / WAV / FLAC / AAC / OGG / M4A
 Vidéo -> Audio - extrait la piste en un clic
