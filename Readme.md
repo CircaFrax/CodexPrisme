@@ -19,7 +19,7 @@
 
 ### ⬇️ [Télécharger CodexPrism v1.0.0 (Windows)](https://github.com/CircaFrax/CodexPrism/releases/download/v1.0.0/CodexPrism_v1.0.0.zip)
 
-`SHA256: d19e82e2783e7e52123364951e47250658adc0b3f98eb9294e32f3cd6f271aa0`
+`SHA256: d9248bfd777dfdf758d2ff598c343e29f83dde11d8f12bb54f124b5596e444c1`
 
 </p>
 
