@@ -36,15 +36,14 @@ Conçu pour les fichiers sensibles : rushs pro, audios perso, images clients, ar
 
 ## ✨ Le couteau suisse de la conversion
 
-Vidéo -> Vidéo - MP4 / MKV / MOV / WebM / AVI sans ré-encodage inutile
-Audio -> Audio - MP3 / WAV / FLAC / AAC / OGG / M4A
-Vidéo -> Audio - extrait la piste en un clic
-Image -> Image - JPG / PNG / WebP / BMP
-Lot de fichiers - glissez 200 fichiers, choisissez un dossier de sortie
-Fichier unique - prévisualisation, infos, même dossier ou dossier perso
-Drag & Drop - depuis l'explorateur Windows directement
-Dossier mémoire - il garde votre dernier dossier de sortie
-Aperçu
+- **Vidéo -> Vidéo - MP4 / MKV / MOV / WebM / AVI sans ré-encodage inutile
+- **Audio -> Audio - MP3 / WAV / FLAC / AAC / OGG / M4A
+- **Vidéo -> Audio - extrait la piste en un clic
+- **Image -> Image - JPG / PNG / WebP / BMP
+- **Lot de fichiers - glissez 200 fichiers, choisissez un dossier de sortie
+- **Fichier unique - prévisualisation, infos, même dossier ou dossier perso
+- **Drag & Drop - depuis l'explorateur Windows directement
+- **Dossier mémoire - il garde votre dernier dossier de sortie
 
 ## Aperçu
 <img src="assets/screen.png" width="700">
