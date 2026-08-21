@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://circafrax.github.io/assets/banniere.png" width="500"> </p>
 CodexPrisme v1.1 - Le convertisseur universel 100% offline
-<p align="center"> <img src="https://raw.githubusercontent.com/CircaFrax/CodexNavigator/main/assets/CodexPrism_box.png" width="420"> </p> <p align="center"> <img src="https://img.shields.io/badge/offline-100%25-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/tracker-0-red?style=for-the-badge"> <img src="https://img.shields.io/badge/licence-Proprietary%20Freeware-gold?style=for-the-badge"> <img src="https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge"> </p> <p align="center">
+<p align="center"> <img src="https://raw.githubusercontent.com/CircaFrax/CodexPrism/main/assets/CodexPrism_box.png" width="420"> </p> <p align="center"> <img src="https://img.shields.io/badge/offline-100%25-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/tracker-0-red?style=for-the-badge"> <img src="https://img.shields.io/badge/licence-Proprietary%20Freeware-gold?style=for-the-badge"> <img src="https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge"> </p> <p align="center">
 ⬇ Télécharger CodexPrisme v1.1 (Windows)
 SHA256: ?
 
