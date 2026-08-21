@@ -9,6 +9,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/offline-100%25-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/tracker-0-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/licence-Proprietary%20Freeware-gold?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge">
+</p>
+
+<p align="center">
 
 ### ⬇️ [Télécharger CodexPrism v1.0.0 (Windows)](https://github.com/CircaFrax/CodexPrism/releases/download/v1.0.0/CodexPrism_v1.0.0.zip)
 
