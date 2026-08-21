@@ -23,7 +23,7 @@ Fichier unique - prévisualisation, infos, même dossier ou dossier perso
 Drag & Drop - depuis l'explorateur Windows directement
 Dossier mémoire - il garde votre dernier dossier de sortie
 Aperçu
-<img src="assets/Screenshot_v1.1.png" width="700"> *Interface Sobre Pro – Deux onglets, conversion en un clic*
+<img src="assets/Screen.png" width="700"> *Interface Sobre Pro – Deux onglets, conversion en un clic*
 📁 Contenu du Zip
 CodexPrisme/
 ├── CodexPrisme.exe
