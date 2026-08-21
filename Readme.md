@@ -42,7 +42,7 @@ Dossier mémoire - il garde votre dernier dossier de sortie
 Aperçu
 
 ## Aperçu
-<img src="assets/Screen.png" width="700">
+<img src="assets/screen.png" width="700">
 *Interface à deux onglets – Conversion en un clic*
 
 📁 Contenu du Zip
