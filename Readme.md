@@ -47,7 +47,7 @@ Conçu pour les fichiers sensibles : rushs pro, audios perso, images clients, ar
 
 ## Aperçu
 <img src="assets/screen.png" width="700">
-*Interface à deux onglets – Conversion en un clic*
+*Interface à trois onglets – Conversion en un clic*
 
 ### 📁 Contenu du Zip
 
