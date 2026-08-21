@@ -55,7 +55,7 @@
 ### 📁 Contenu du Zip
 
 ```
-CodexPrism/
+CodexPrisme/
 ├── CodexPrisme.exe
 ├── LICENCE.md
 ├── LICENSE.md
