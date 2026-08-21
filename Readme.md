@@ -46,6 +46,7 @@
 - **Fichier unique - prévisualisation, infos, même dossier ou dossier perso
 - **Drag & Drop - depuis l'explorateur Windows directement
 - **Dossier mémoire - il garde votre dernier dossier de sortie
+- **Petit plus - Atelier image to text
 
 ## Aperçu
 <img src="assets/screen.png" width="700">
