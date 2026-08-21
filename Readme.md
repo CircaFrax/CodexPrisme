@@ -2,7 +2,7 @@
   <img src="https://circafrax.github.io/assets/banniere.png" width="500">
 </p>
 
-# CodexPrism v1.0.0 - Le convertisseur universel 100% offline
+# CodexPrisme v1.0.0 - Le convertisseur universel 100% offline
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CircaFrax/CodexPrism/main/assets/CodexPrism_box.png" width="420">
@@ -17,7 +17,7 @@
 
 <p align="center">
 
-### ⬇️ [Télécharger CodexPrism v1.0.0 (Windows)](https://github.com/CircaFrax/CodexPrism/releases/download/v1.0.0/CodexPrism_v1.0.zip)
+### ⬇️ [Télécharger CodexPrisme v1.0.0 (Windows)](https://github.com/CircaFrax/CodexPrisme/releases/download/v1.0.0/CodexPrisme_v1.0.zip)
 
 `SHA256: d9248bfd777dfdf758d2ff598c343e29f83dde11d8f12bb54f124b5596e444c1`
 
@@ -27,7 +27,7 @@
 
 ### Pourquoi en offline ?
 
-| Services en ligne | **CodexPrism** |
+| Services en ligne | **CodexPrisme** |
 |---|---|
 | Vos documents sont envoyés sur un serveur distant | **Vos fichiers ne quittent jamais votre PC** |
 | Watermark, limite de taille, compte obligatoire | **0 cookie, 0 pub, 0 compte, 0 watermark, 0 limite** |
@@ -56,7 +56,7 @@
 
 ```
 CodexPrism/
-├── CodexPdf.exe
+├── CodexPrisme.exe
 ├── LICENCE.md
 ├── LICENSE.md
 └── THIRD_PARTY_LICENSES.md
