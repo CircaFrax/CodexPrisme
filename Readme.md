@@ -62,19 +62,20 @@ CodexPrism/
 
 Pas d'installation. Double-clic et c'est parti, comme en 1998 mais en mieux.
 
-🔒 Confidentialité
-Zéro réseau : 100% offline, vérifiable au pare-feu (bloquez-le si vous voulez)
-Zéro collecte : n'écrit que les fichiers que vous demandez, dans le dossier que vous choisissez
-100% légal : FFmpeg sous licence LGPL/GPL + licences permissives complètes incluses dans le zip
-Code source privé : CircaFrax Proprietary Freeware v1.0
-📄 Licence
+### 🔒 Confidentialité
+
+- **Zéro réseau** : 100% offline, vérifiable au pare-feu
+- **Zéro collecte** : n'écrit que les fichiers que vous demandez, dans le dossier que vous choisissez
+- **100% légal** : FFmpeg sous licence LGPL/GPL + licences permissives complètes incluses dans le zip
+- **Code source privé** : CircaFrax Proprietary Freeware v1.0
+
+### 📄 Licence
+
 Gratuit à vie, usage perso / associatif / pro / commercial. Distribution libre à l'identique avec les fichiers de licence.
 
-Voir LICENCE.md et THIRD_PARTY_LICENSES.md inclus.
+Voir `LICENCE.md` et `THIRD_PARTY_LICENSES.md` inclus.
 
-Fait partie de la suite Codex — des outils offline CircaFrax.
-CIRCAFRAX CONSORTIUM - Admin Sans Frontières - ZeroTrust
-CircaFrax - Astra - Marque de référence
+---
 
-Contact pro : à venir
-
+**Fait partie de la suite Codex** — des outils offline CircaFrax.
+**CircaFrax - Astra - Marque de référence**
