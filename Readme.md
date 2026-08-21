@@ -21,8 +21,8 @@
 
 ---
 
-</p>
-Pourquoi en offline ?
+### Pourquoi en offline ?
+
 Services en ligne	CodexPrisme
 Vos vidéos / audios sont uploadés sur un serveur distant	Vos fichiers ne quittent jamais votre PC
 Watermark, limite de taille, compte obligatoire, pub	0 pub, 0 compte, 0 limite, 0 watermark
@@ -40,7 +40,11 @@ Fichier unique - prévisualisation, infos, même dossier ou dossier perso
 Drag & Drop - depuis l'explorateur Windows directement
 Dossier mémoire - il garde votre dernier dossier de sortie
 Aperçu
-<img src="assets/Screen.png" width="700"> *Interface Sobre Pro – Deux onglets, conversion en un clic*
+
+## Aperçu
+<img src="assets/Screen.png" width="700">
+*Interface à deux onglets – Conversion en un clic*
+
 📁 Contenu du Zip
 CodexPrisme/
 ├── CodexPrisme.exe
