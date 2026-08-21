@@ -17,7 +17,7 @@
 
 <p align="center">
 
-### ⬇️ [Télécharger CodexPrism v1.0.0 (Windows)](https://github.com/CircaFrax/CodexPrism/releases/download/v1.0.0/CodexPrism_v1.0.0.zip)
+### ⬇️ [Télécharger CodexPrism v1.0.0 (Windows)](https://github.com/CircaFrax/CodexPrism/releases/download/v1.0.0/CodexPrism_v1.0.zip)
 
 `SHA256: d9248bfd777dfdf758d2ff598c343e29f83dde11d8f12bb54f124b5596e444c1`
 
