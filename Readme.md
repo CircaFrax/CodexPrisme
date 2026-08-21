@@ -5,7 +5,7 @@
 # CodexPrism v1.0.0 - Le convertisseur universel 100% offline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CircaFrax/CodexPdf/main/assets/CodexPrism_box.png" width="420">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexPrism/main/assets/CodexPrism_box.png" width="420">
 </p>
 
 <p align="center">
