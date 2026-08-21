@@ -27,12 +27,14 @@
 
 ### Pourquoi en offline ?
 
-Services en ligne	CodexPrisme
-Vos vidéos / audios sont uploadés sur un serveur distant	Vos fichiers ne quittent jamais votre PC
-Watermark, limite de taille, compte obligatoire, pub	0 pub, 0 compte, 0 limite, 0 watermark
-Nécessite une connexion	Fonctionne sans internet
-Conditions floues sur la revente de vos médias	Confidentialité totale, vérifiable au pare-feu
-Conçu pour les fichiers sensibles : rushs pro, audios perso, images clients, archives associatives.
+| Services en ligne | **CodexPrism** |
+|---|---|
+| Vos documents sont envoyés sur un serveur distant | **Vos fichiers ne quittent jamais votre PC** |
+| Watermark, limite de taille, compte obligatoire | **0 cookie, 0 pub, 0 compte, 0 watermark, 0 limite** |
+| Nécessite une connexion | **Fonctionne sans internet** |
+| Conditions d'utilisation floues sur vos données | **Confidentialité totale, vérifiable** |
+> Conçu pour les fichiers sensibles : rushs pro, audios perso, images clients, archives associatives.
+
 
 ## ✨ Le couteau suisse de la conversion
 
