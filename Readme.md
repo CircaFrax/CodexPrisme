@@ -45,13 +45,16 @@ Aperçu
 <img src="assets/screen.png" width="700">
 *Interface à deux onglets – Conversion en un clic*
 
-📁 Contenu du Zip
-CodexPrisme/
-├── CodexPrisme.exe
-├── ffmpeg.exe
+### 📁 Contenu du Zip
+
+```
+CodexPrism/
+├── CodexPdf.exe
 ├── LICENCE.md
 ├── LICENSE.md
 └── THIRD_PARTY_LICENSES.md
+```
+
 Pas d'installation. Double-clic et c'est parti, comme en 1998 mais en mieux.
 
 🔒 Confidentialité
