@@ -2,7 +2,7 @@
   <img src="https://circafrax.github.io/assets/banniere.png" width="500">
 </p>
 
-# CodexPrisme v1.0.0 - Le convertisseur universel 100% offline
+# CodexPrisme v1.3.1 - Le convertisseur universel 100% offline
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CircaFrax/CodexPrism/main/assets/CodexPrism_box.png" width="420">
@@ -17,7 +17,7 @@
 
 <p align="center">
 
-### ⬇️ [Télécharger CodexPrisme v1.0.0 (Windows)](https://github.com/CircaFrax/CodexPrisme/releases/download/v1.0.0/CodexPrisme_v1.0.zip)
+### ⬇️ [Télécharger CodexPrisme v1.3.1 (Windows)](https://github.com/CircaFrax/CodexPrisme/releases/download/v1.3.1/CodexPrisme_v1.3.1.zip)
 
 `SHA256: d9248bfd777dfdf758d2ff598c343e29f83dde11d8f12bb54f124b5596e444c1`
 
